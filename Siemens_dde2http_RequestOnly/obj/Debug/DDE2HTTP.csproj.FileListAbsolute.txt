@@ -1,0 +1,12 @@
+\\ifw.uni-hannover.de\daten\B5-Daten\05-Mitarbeiter\Doreth\10-Softwareentwicklung\5_C#\Siemens_dde2http\obj\Debug\DDE2HTTP.csprojResolveAssemblyReference.cache
+\\ifw.uni-hannover.de\daten\B5-Daten\05-Mitarbeiter\Doreth\10-Softwareentwicklung\5_C#\Siemens_dde2http_RequestOnly\obj\Debug\DDE2HTTP.csprojResolveAssemblyReference.cache
+\\ifw.uni-hannover.de\daten\B5-Daten\05-Mitarbeiter\Doreth\10-Softwareentwicklung\5_C#\Siemens_dde2http_RequestOnly\bin\Debug\DDE2HTTP.exe.manifest
+\\ifw.uni-hannover.de\daten\B5-Daten\05-Mitarbeiter\Doreth\10-Softwareentwicklung\5_C#\Siemens_dde2http_RequestOnly\bin\Debug\DDE2HTTP.application
+\\ifw.uni-hannover.de\daten\B5-Daten\05-Mitarbeiter\Doreth\10-Softwareentwicklung\5_C#\Siemens_dde2http_RequestOnly\bin\Debug\DDE2HTTP.exe
+\\ifw.uni-hannover.de\daten\B5-Daten\05-Mitarbeiter\Doreth\10-Softwareentwicklung\5_C#\Siemens_dde2http_RequestOnly\bin\Debug\DDE2HTTP.pdb
+\\ifw.uni-hannover.de\daten\B5-Daten\05-Mitarbeiter\Doreth\10-Softwareentwicklung\5_C#\Siemens_dde2http_RequestOnly\bin\Debug\NDde.dll
+\\ifw.uni-hannover.de\daten\B5-Daten\05-Mitarbeiter\Doreth\10-Softwareentwicklung\5_C#\Siemens_dde2http_RequestOnly\bin\Debug\NDde.xml
+\\ifw.uni-hannover.de\daten\B5-Daten\05-Mitarbeiter\Doreth\10-Softwareentwicklung\5_C#\Siemens_dde2http_RequestOnly\obj\Debug\DDE2HTTP.exe.manifest
+\\ifw.uni-hannover.de\daten\B5-Daten\05-Mitarbeiter\Doreth\10-Softwareentwicklung\5_C#\Siemens_dde2http_RequestOnly\obj\Debug\DDE2HTTP.application
+\\ifw.uni-hannover.de\daten\B5-Daten\05-Mitarbeiter\Doreth\10-Softwareentwicklung\5_C#\Siemens_dde2http_RequestOnly\obj\Debug\DDE2HTTP.exe
+\\ifw.uni-hannover.de\daten\B5-Daten\05-Mitarbeiter\Doreth\10-Softwareentwicklung\5_C#\Siemens_dde2http_RequestOnly\obj\Debug\DDE2HTTP.pdb

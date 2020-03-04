@@ -1,0 +1,9 @@
+\\ifw.uni-hannover.de\daten\B5-Daten\05-Mitarbeiter\Doreth\10-Softwareentwicklung\5_C#\Siemens_dde2http_poke\bin\Debug\HTTP_Poke_lesen.exe.config
+\\ifw.uni-hannover.de\daten\B5-Daten\05-Mitarbeiter\Doreth\10-Softwareentwicklung\5_C#\Siemens_dde2http_poke\bin\Debug\HTTP_Poke_lesen.exe
+\\ifw.uni-hannover.de\daten\B5-Daten\05-Mitarbeiter\Doreth\10-Softwareentwicklung\5_C#\Siemens_dde2http_poke\bin\Debug\HTTP_Poke_lesen.pdb
+\\ifw.uni-hannover.de\daten\B5-Daten\05-Mitarbeiter\Doreth\10-Softwareentwicklung\5_C#\Siemens_dde2http_poke\bin\Debug\NDde.dll
+\\ifw.uni-hannover.de\daten\B5-Daten\05-Mitarbeiter\Doreth\10-Softwareentwicklung\5_C#\Siemens_dde2http_poke\bin\Debug\NDde.xml
+\\ifw.uni-hannover.de\daten\B5-Daten\05-Mitarbeiter\Doreth\10-Softwareentwicklung\5_C#\Siemens_dde2http_poke\obj\Debug\HTTP2DDE.csprojResolveAssemblyReference.cache
+\\ifw.uni-hannover.de\daten\B5-Daten\05-Mitarbeiter\Doreth\10-Softwareentwicklung\5_C#\Siemens_dde2http_poke\obj\Debug\HTTP_Poke_lesen.exe
+\\ifw.uni-hannover.de\daten\B5-Daten\05-Mitarbeiter\Doreth\10-Softwareentwicklung\5_C#\Siemens_dde2http_poke\obj\Debug\HTTP_Poke_lesen.pdb
+\\ifw.uni-hannover.de\daten\B5-Daten\05-Mitarbeiter\Doreth\10-Softwareentwicklung\5_C#\Siemens_dde2http_poke\bin\Debug\settings.ini
